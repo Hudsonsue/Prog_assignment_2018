@@ -4,7 +4,7 @@
 
 * This repository consists of a Jupyter Notebook which is based on at the numpy.random package in Python.
 
-* The notebook is based on the requirements outlined in [Assignment 2018](http://localhost:8889/files/assignment%202018%20-%20Programming%20for%20Data%20Analysis.pdf)
+* The notebook is based on the requirements outlined in the assignment brief contained within this repository (assignment 2018 - Programming for Data Analysis.pdf)
 
 * The code within is Python
 
